@@ -10,10 +10,10 @@
 ## Блок 1. Python
 
 1 занятие (14.02.2022)
-[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_2021/tree/main/lect01_git_basic_types)
+[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_2022/tree/main/lect01_git_basic_types)
 
 2 занятие (17.02.2021)
-[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python_2021/tree/main/lect02_complex_types_if_else)
+[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/pileyan/DPO_Python_2022/tree/main/lect02_complex_types_if_else)
 
 
 
