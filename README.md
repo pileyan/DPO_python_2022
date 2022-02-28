@@ -37,7 +37,7 @@
 
 ДЗ1 сдавать [сюда](https://www.dropbox.com/request/TV7fp8DIwiSFsGtB32eS) до 28.02.2022
 
-**Здесь будут ссылки для сдачи**
+ДЗ2 сдавать [сюда](https://www.dropbox.com/request/OepzdOsCzJmXAGNB8NRl) до 06.03.2022
 
 
 ## Как работать с Github?
